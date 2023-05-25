@@ -3,7 +3,7 @@ name: Simple Go Build Workflow
 on:
   push:
     branches:
-      -main
+      - main
       
 jobs:
   build_job:
